@@ -1,0 +1,49 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.conversion-body{
+    position:absolute;
+    top: 5%;
+    left: 40%;
+    width: 400px;
+    height: 150px;
+    background: aquamarine;
+    box-shadow: 0px 0px 2px 1px black;
+}
+
+.weightconversionbody{
+    position:absolute;
+    top: 30%;
+    left: 40%;
+    width: 400px;
+    height: 150px;
+    background: cornflowerblue;
+    box-shadow: 0px 0px 2px 1px black;
+}
+
+.title,.weighttitle{
+    text-align: center;
+    margin: 15px 0px;
+}
+
+input,weightinput{
+    height: 20px;
+    text-align: center;
+}
+
+#input,#weightinput{
+    margin-left: 15px;
+}
+
+#InputType,#OutputType,#WeightInputType,#WeightOutputType{
+    width: 177px;
+    margin-left: 15px;
+    color: #1344a5;
+    text-align: center;
+}
+
+#OutputType,#WeightOutputType{
+    margin-left: 13px;
+}
