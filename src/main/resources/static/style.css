@@ -166,6 +166,16 @@ section
     animation-delay: 5.5s;
 }
 
+.back
+{
+    opacity: 0;
+    position: fixed;
+    left: 10%;
+    top: 10%;
+    background-color: #1545a7;
+    text-color: white;
+}
+
 .button1
 {
     opacity: 0;
