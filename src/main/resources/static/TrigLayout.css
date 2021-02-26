@@ -1,0 +1,26 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.calculate-body{
+    position:absolute;
+    top: 5%;
+    left: 40%;
+    width: 400px;
+    height: 150px;
+    background: aquamarine;
+    box-shadow: 0px 0px 2px 1px black;
+}
+
+
+#InputType,#OutputType{
+    width: 177px;
+    margin-left: 15px;
+    color: #1344a5;
+    text-align: center;
+}
+
+#OutputType{
+    margin-left: 13px;
+}
