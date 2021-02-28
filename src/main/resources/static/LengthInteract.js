@@ -4,18 +4,26 @@ var input = document.getElementById('input');
 var output = document.getElementById('output');
 
 
+var WeightInputType = document.getElementById('WeightInputType');
+var WeightOutputType = document.getElementById('WeightOutputType');
+var weightinput = document.getElementById('weightinput');
+var weightoutput = document.getElementById('weightoutput');
+
+
 var InputTypeValue, OutputTypeValue;
+var WeightInputTypeValue, WeigthOutputTypeValue;
 
 input.addEventListener("keyup",calcoutput);
 InputType.addEventListener("change",calcoutput);
 OutputType.addEventListener("change",calcoutput);
 
 
+weightinput.addEventListener("keyup",weightcalculate);
+WeightInputType.addEventListener("change",weightcalculate);
+WeightOutputType.addEventListener("change",weightcalculate)
 
 function calcoutput(){ //need to add more conversions
-
     //output.value = input.value; Only to make sure that the boxes are detecting input
-
     InputTypeValue = InputType.value;
     OutputTypeValue = OutputType.value;
 
@@ -49,10 +57,6 @@ function calcoutput(){ //need to add more conversions
     if(InputTypeValue == "Meters" && OutputTypeValue == "Inches"){
         output.value = Number(input.value) * 39.3701;
     }
-
-
-
-
 
 
 
@@ -190,7 +194,6 @@ function calcoutput(){ //need to add more conversions
 
 
 
-
     if(InputTypeValue == "Nanometers" && OutputTypeValue == "Meters"){
         output.value = Number(input.value) / 1000000000;
     }
@@ -221,7 +224,6 @@ function calcoutput(){ //need to add more conversions
     if(InputTypeValue == "Nanometers" && OutputTypeValue == "Inches"){
         output.value = Number(input.value) / 25400000;
     }
-
 
 
     if(InputTypeValue == "Miles" && OutputTypeValue == "Meters"){
@@ -356,3 +358,131 @@ function calcoutput(){ //need to add more conversions
     }
 }
 
+function weightcalculate(){
+
+    //weightoutput.value = weightinput.value;
+
+    WeightInputTypeValue = WeightInputType.value;
+    WeightOutputTypeValue = WeightOutputType.value;
+
+
+    if(WeightInputTypeValue == "Kilograms" && WeightOutputTypeValue == "Kilograms"){
+        weightoutput.value = weightinput.value;
+    }
+    if(WeightInputTypeValue == "Kilograms" && WeightOutputTypeValue == "Grams"){
+        weightoutput.value = Number(weightinput.value) * 1000;
+    }
+    if(WeightInputTypeValue == "Kilograms" && WeightOutputTypeValue == "Milligrams"){
+        weightoutput.value = Number(weightinput.value) * 1000000;
+    }
+    if(WeightInputTypeValue == "Kilograms" && WeightOutputTypeValue == "Micrograms"){
+        weightoutput.value = Number(weightinput.value) * 1000000000;
+    }
+    if(WeightInputTypeValue == "Kilograms" && WeightOutputTypeValue == "Pounds"){
+        weightoutput.value = Number(weightinput.value) * 2.205;
+    }
+    if(WeightInputTypeValue == "Kilograms" && WeightOutputTypeValue == "Ounces"){
+        weightoutput.value = Number(weightinput.value) * 35.274;
+    }
+
+
+    if(WeightInputTypeValue == "Grams" && WeightOutputTypeValue == "Kilograms"){
+        weightoutput.value = Number(weightinput.value) / 1000;
+    }
+    if(WeightInputTypeValue == "Grams" && WeightOutputTypeValue == "Grams"){
+        weightoutput.value = weightinput.value;
+    }
+    if(WeightInputTypeValue == "Grams" && WeightOutputTypeValue == "Milligrams"){
+        weightoutput.value = Number(weightinput.value) * 1000;
+    }
+    if(WeightInputTypeValue == "Grams" && WeightOutputTypeValue == "Micrograms"){
+        weightoutput.value = Number(weightinput.value) * 1000000;
+    }
+    if(WeightInputTypeValue == "Grams" && WeightOutputTypeValue == "Pounds"){
+        weightoutput.value = Number(weightinput.value) / 454;
+    }
+    if(WeightInputTypeValue == "Grams" && WeightOutputTypeValue == "Ounces"){
+        weightoutput.value = Number(weightinput.value) / 28.35;
+    }
+
+
+    if(WeightInputTypeValue == "Milligrams" && WeightOutputTypeValue == "Kilograms"){
+        weightoutput.value = Number(weightinput.value) / 1000000;
+    }
+    if(WeightInputTypeValue == "Milligrams" && WeightOutputTypeValue == "Grams"){
+        weightoutput.value = Number(weightinput.value) / 1000;
+    }
+    if(WeightInputTypeValue == "Milligrams" && WeightOutputTypeValue == "Milligrams"){
+        weightoutput.value = weightinput.value;
+    }
+    if(WeightInputTypeValue == "Milligrams" && WeightOutputTypeValue == "Micrograms"){
+        weightoutput.value = Number(weightinput.value) * 1000;
+    }
+    if(WeightInputTypeValue == "Milligrams" && WeightOutputTypeValue == "Pounds"){
+        weightoutput.value = Number(weightinput.value) / 453592;
+    }
+    if(WeightInputTypeValue == "Milligrams" && WeightOutputTypeValue == "Ounces"){
+        weightoutput.value = Number(weightinput.value) / 28350;
+    }
+
+
+    if(WeightInputTypeValue == "Micrograms" && WeightOutputTypeValue == "Kilograms"){
+        weightoutput.value = Number(weightinput.value) / 1000000000;
+    }
+    if(WeightInputTypeValue == "Micrograms" && WeightOutputTypeValue == "Grams"){
+        weightoutput.value = Number(weightinput.value) / 1000000;
+    }
+    if(WeightInputTypeValue == "Micrograms" && WeightOutputTypeValue == "Milligrams"){
+        weightoutput.value = Number(weightinput.value) / 1000;
+    }
+    if(WeightInputTypeValue == "Micrograms" && WeightOutputTypeValue == "Micrograms"){
+        weightoutput.value = weightinput.value;
+    }
+    if(WeightInputTypeValue == "Micrograms" && WeightOutputTypeValue == "Pounds"){
+        weightoutput.value = Number(weightinput.value) / 453600000;
+    }
+    if(WeightInputTypeValue == "Micrograms" && WeightOutputTypeValue == "Ounces"){
+        weightoutput.value = Number(weightinput.value) / 28350000;
+    }
+
+
+    if(WeightInputTypeValue == "Pounds" && WeightOutputTypeValue == "Kilograms"){
+        weightoutput.value = Number(weightinput.value) / 2.205;
+    }
+    if(WeightInputTypeValue == "Pounds" && WeightOutputTypeValue == "Grams"){
+        weightoutput.value = Number(weightinput.value) * 454;
+    }
+    if(WeightInputTypeValue == "Pounds" && WeightOutputTypeValue == "Milligrams"){
+        weightoutput.value = Number(weightinput.value) * 453592;
+    }
+    if(WeightInputTypeValue == "Pounds" && WeightOutputTypeValue == "Micrograms"){
+        weightoutput.value = Number(weightinput.value) * 453600000;
+    }
+    if(WeightInputTypeValue == "Pounds" && WeightOutputTypeValue == "Pounds"){
+        weightoutput.value = weightinput.value;
+    }
+    if(WeightInputTypeValue == "Pounds" && WeightOutputTypeValue == "Ounces"){
+        weightoutput.value = Number(weightinput.value) * 16;
+    }
+
+
+    if(WeightInputTypeValue == "Ounces" && WeightOutputTypeValue == "Kilograms"){
+        weightoutput.value = Number(weightinput.value) / 35.274;
+    }
+    if(WeightInputTypeValue == "Ounces" && WeightOutputTypeValue == "Grams"){
+        weightoutput.value = Number(weightinput.value) * 28.35;
+    }
+    if(WeightInputTypeValue == "Ounces" && WeightOutputTypeValue == "Milligrams"){
+        weightoutput.value = Number(weightinput.value) * 28350;
+    }
+    if(WeightInputTypeValue == "Ounces" && WeightOutputTypeValue == "Micrograms"){
+        weightoutput.value = Number(weightinput.value) * 28350000;
+    }
+    if(WeightInputTypeValue == "Ounces" && WeightOutputTypeValue == "Pounds"){
+        weightoutput.value = Number(weightinput.value) / 16;
+    }
+    if(WeightInputTypeValue == "Ounces" && WeightOutputTypeValue == "Ounces"){
+        weightoutput.value = weightinput.value;
+    }
+
+}
