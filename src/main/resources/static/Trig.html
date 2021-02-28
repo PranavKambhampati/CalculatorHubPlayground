@@ -9,13 +9,22 @@
 
     <div class="calculate-body">
         <h4 class="title">Trigonometry Calculations</h4>
-        <input type="text" placeholder="Angle" id="angle">
 
         <select id="InputType">
             <option value="Sine">Sine</option>
             <option value="Cosine">Cosine</option>
             <option value="Tangent">Tangent</option>
         </select>
+
+        <input type="text" placeholder="Angle" id="angle">
+
+        <span>=</span>
+
+        <input type = "button" placeholder="Calculate!" id="answerButton" onclick="calcoutput()">
+
+
+        <input type="text" placeholder="Answer" id="actualAnswer">
+
     </div>
 
     <script src="TrigFunctions.js"></script>

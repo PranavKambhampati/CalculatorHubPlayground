@@ -6,6 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="103a998e-d751-4216-8fa0-42164ec7473c" name="Default Changelist" comment="hi">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/Trig.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/Trig.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/TrigFunctions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/TrigFunctions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/TrigLayout.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/TrigLayout.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +49,18 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.Length.html">
+  <component name="RunManager" selected="JavaScript Debug.Trig.html">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Length.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/springbootdemo/static/Length.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -59,6 +73,9 @@
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/CalculatorHubPlayground/src/main/resources/static/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+    <configuration name="TrigFunctions.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/main/resources/static/TrigFunctions.js" working-dir="$PROJECT_DIR$/src/main/resources/static">
+      <method v="2" />
+    </configuration>
     <configuration name="GatorsCalculatorHubApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="CalculatorHubPlayground" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springbootdemo.GatorsCalculatorHubApplication" />
@@ -68,10 +85,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.index.html" />
-        <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="JavaScript Debug.Trig.html" />
         <item itemvalue="JavaScript Debug.Length.html" />
+        <item itemvalue="Node.js.TrigFunctions.js" />
+        <item itemvalue="JavaScript Debug.index.html (1)" />
+        <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
   </component>
@@ -93,6 +111,9 @@
       <workItem from="1614038118370" duration="750000" />
       <workItem from="1614052785722" duration="1195000" />
       <workItem from="1614356378102" duration="309000" />
+      <workItem from="1614356810911" duration="1296000" />
+      <workItem from="1614378971555" duration="758000" />
+      <workItem from="1614478473757" duration="2180000" />
     </task>
     <task id="LOCAL-00001" summary="hi">
       <created>1613932438155</created>
@@ -115,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614012763027</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="hi">
+      <created>1614356841646</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1614356841646</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
