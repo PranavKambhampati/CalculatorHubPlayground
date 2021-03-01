@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="103a998e-d751-4216-8fa0-42164ec7473c" name="Default Changelist" comment="hi">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/Trig.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/Trig.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/TrigFunctions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/TrigFunctions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/TrigLayout.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/TrigLayout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/Length.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/Length.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/LengthInteract.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/LengthInteract.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/LengthStyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/LengthStyle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,12 +38,17 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="1onpcYki0JgmHGqT1TTeQPToY3v" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -49,14 +56,16 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.Trig.html">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+  <component name="RunManager" selected="Spring Boot.GatorsCalculatorHubApplication">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -85,8 +94,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.Trig.html" />
         <item itemvalue="JavaScript Debug.Length.html" />
+        <item itemvalue="JavaScript Debug.Trig.html" />
         <item itemvalue="Node.js.TrigFunctions.js" />
         <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="JavaScript Debug.index.html" />
@@ -114,6 +123,8 @@
       <workItem from="1614356810911" duration="1296000" />
       <workItem from="1614378971555" duration="758000" />
       <workItem from="1614478473757" duration="2180000" />
+      <workItem from="1614529765951" duration="1550000" />
+      <workItem from="1614614252633" duration="1516000" />
     </task>
     <task id="LOCAL-00001" summary="hi">
       <created>1613932438155</created>

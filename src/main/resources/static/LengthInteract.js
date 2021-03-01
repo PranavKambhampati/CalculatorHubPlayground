@@ -10,8 +10,15 @@ var weightinput = document.getElementById('weightinput');
 var weightoutput = document.getElementById('weightoutput');
 
 
+var TempInputType = document.getElementById('TempInputType');
+var TempOutputType = document.getElementById('TempOutputType');
+var tempinput = document.getElementById('tempinput');
+var tempoutput = document.getElementById('tempoutput');
+
+
 var InputTypeValue, OutputTypeValue;
 var WeightInputTypeValue, WeigthOutputTypeValue;
+var TempInputTypeValue, TempOutputTypeValue;
 
 input.addEventListener("keyup",calcoutput);
 InputType.addEventListener("change",calcoutput);
@@ -20,7 +27,12 @@ OutputType.addEventListener("change",calcoutput);
 
 weightinput.addEventListener("keyup",weightcalculate);
 WeightInputType.addEventListener("change",weightcalculate);
-WeightOutputType.addEventListener("change",weightcalculate)
+WeightOutputType.addEventListener("change",weightcalculate);
+
+
+tempinput.addEventListener("keyup",tempcalculate);
+TempInputType.addEventListener("chage",tempcalculate);
+TempOutType.addEventListener("change",tempcalculate);
 
 function calcoutput(){ //need to add more conversions
     //output.value = input.value; Only to make sure that the boxes are detecting input
@@ -483,6 +495,45 @@ function weightcalculate(){
     }
     if(WeightInputTypeValue == "Ounces" && WeightOutputTypeValue == "Ounces"){
         weightoutput.value = weightinput.value;
+    }
+
+}
+
+function tempcalculate(){
+
+    TempInputTypeValue = TempInputType.value;
+    TempOutputTypeValue = TempOutputType.value;
+
+    if(TempInputTypeValue == "Celsius" && TempOutputTypeValue == "Celsius"){
+        tempoutput.value = tempinput.value;
+    }
+    if(TempInputTypeValue == "Celsius" && TempOutputTypeValue == "Fahrenheit"){
+        tempoutput.value = (Number(tempinput.value) * 9/5)+32;
+    }
+    if(TempInputTypeValue == "Celsius" && TempOutputTypeValue == "Kelvin"){
+        tempoutput.value = Number(tempinput.value) + 273.15;
+    }
+
+
+    if(TempInputTypeValue == "Fahrenheit" && TempOutputTypeValue == "Celsius"){
+        tempoutput.value = (Number(tempinput.value) - 32) * 5/9;
+    }
+    if(TempInputTypeValue == "Fahrenheit" && TempOutputTypeValue == "Fahrenheit"){
+        tempoutput.value = tempinput.value;
+    }
+    if(TempInputTypeValue == "Fahrenheit" && TempOutputTypeValue == "Kelvin"){
+        tempoutput.value = ((Number(tempinput.value) - 32) * 5/9) + 273.15;
+    }
+
+
+    if(TempInputTypeValue == "Kelvin" && TempOutputTypeValue == "Celsius"){
+        tempoutput.value = Number(tempinput.value) - 273.15;
+    }
+    if(TempInputTypeValue == "Kelvin" && TempOutputTypeValue == "Fahrenheit"){
+        tempoutput.value = ((Number(tempinput.value)-273.15)*9/5)+32
+    }
+    if(TempInputTypeValue == "Kelvin" && TempOutputTypeValue == "Kelvin"){
+        tempoutput.value = tempinput.value;
     }
 
 }
