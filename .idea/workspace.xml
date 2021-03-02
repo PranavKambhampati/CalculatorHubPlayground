@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="103a998e-d751-4216-8fa0-42164ec7473c" name="Default Changelist" comment="Some 4-Way Algo files added">
+    <list default="true" id="103a998e-d751-4216-8fa0-42164ec7473c" name="Default Changelist" comment="Added 4-Way Factorial Algos with code embeds to website">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +17,8 @@
       <list>
         <option value="CSS File" />
         <option value="JavaScript File" />
-        <option value="HTML File" />
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -161,7 +161,7 @@
       <workItem from="1614478473757" duration="2180000" />
       <workItem from="1614529765951" duration="1550000" />
       <workItem from="1614614252633" duration="1516000" />
-      <workItem from="1614658140598" duration="3743000" />
+      <workItem from="1614658140598" duration="4400000" />
     </task>
     <task id="LOCAL-00001" summary="hi">
       <created>1613932438155</created>
@@ -198,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614662090525</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added 4-Way Factorial Algos with code embeds to website">
+      <created>1614663047998</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1614663047998</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -219,6 +226,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hi" />
     <MESSAGE value="Some 4-Way Algo files added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Some 4-Way Algo files added" />
+    <MESSAGE value="Added 4-Way Factorial Algos with code embeds to website" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added 4-Way Factorial Algos with code embeds to website" />
   </component>
 </project>
