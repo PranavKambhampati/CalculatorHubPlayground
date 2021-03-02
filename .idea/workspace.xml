@@ -4,7 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="103a998e-d751-4216-8fa0-42164ec7473c" name="Default Changelist" comment="hi" />
+    <list default="true" id="103a998e-d751-4216-8fa0-42164ec7473c" name="Default Changelist" comment="Footer file added to project, but not implemented">
+      <change afterPath="$PROJECT_DIR$/src/main/java/APFRQs/U2F1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/APFRQs/Unit3Frq1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/APFRQs/Unit3Frq2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/APFRQs/Unit4Frq1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/APFRQs/Unit4Frq2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/APFRQs/Unit5Frq1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/APFRQs/Unit5Frq2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/APFRQs/Unit6Frq1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/APFRQs/Unit6Frq2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/APFRQs/Unit7Frq1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/APFRQs/Unit8Frq1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/APFRQs/Unit9Frq1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +31,7 @@
         <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -118,6 +134,7 @@
       <workItem from="1614478473757" duration="2180000" />
       <workItem from="1614529765951" duration="1550000" />
       <workItem from="1614614252633" duration="1516000" />
+      <workItem from="1614701379900" duration="1555000" />
     </task>
     <task id="LOCAL-00001" summary="hi">
       <created>1613932438155</created>
