@@ -23,3 +23,4 @@ function calcoutput() {
         output.value = Math.tan(Number(angle.value));
     }
 }
+
