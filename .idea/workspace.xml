@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="103a998e-d751-4216-8fa0-42164ec7473c" name="Default Changelist" comment="Footer file added" />
+    <list default="true" id="103a998e-d751-4216-8fa0-42164ec7473c" name="Default Changelist" comment="Footer file added">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/springbootdemo/GatorsCalculatorHubApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/springbootdemo/GatorsCalculatorHubApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +54,7 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
-  <component name="RunManager" selected="Application.FactorialBigInteger">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration name="FactorialBigInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Factorial.FactorialBigInteger" />
       <module name="CalculatorHubPlayground" />
@@ -116,7 +120,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Length.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/springbootdemo/static/Length.html" useBuiltInWebServerPort="true">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/springbootdemo/static/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="GatorsCalculatorHubApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
@@ -128,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="Application.FactorialBigInteger" />
         <item itemvalue="Application.FactorialStreams" />
         <item itemvalue="Application.FactorialRecursion" />
         <item itemvalue="Application.FactorialIteration" />
-        <item itemvalue="JavaScript Debug.Length.html" />
       </list>
     </recent_temporary>
   </component>
