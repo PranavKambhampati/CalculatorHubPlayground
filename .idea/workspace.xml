@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="103a998e-d751-4216-8fa0-42164ec7473c" name="Default Changelist" comment="added php">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/APFRQs.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/Derivative.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/Derivative.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/Derivative.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="103a998e-d751-4216-8fa0-42164ec7473c" name="Default Changelist" comment="AP FRQs added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/Trig.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/Trig.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/TrigFunctions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/TrigFunctions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,14 +18,14 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/main/resources/static" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -64,19 +55,6 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager" selected="Spring Boot.GatorsCalculatorHubApplication">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Length.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/springbootdemo/static/Length.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -132,6 +110,7 @@
       <workItem from="1614478473757" duration="2180000" />
       <workItem from="1614529765951" duration="1550000" />
       <workItem from="1614614252633" duration="1516000" />
+      <workItem from="1614712611993" duration="1539000" />
     </task>
     <task id="LOCAL-00001" summary="hi">
       <created>1613932438155</created>
