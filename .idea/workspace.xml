@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="103a998e-d751-4216-8fa0-42164ec7473c" name="Default Changelist" comment="AP FRQs added">
+    <list default="true" id="103a998e-d751-4216-8fa0-42164ec7473c" name="Default Changelist" comment="AP FRQs code embedded into webpage">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +53,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunManager" selected="Spring Boot.GatorsCalculatorHubApplication">
     <configuration name="Length.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/springbootdemo/static/Length.html" useBuiltInWebServerPort="true">
@@ -111,6 +112,9 @@
       <workItem from="1614529765951" duration="1550000" />
       <workItem from="1614614252633" duration="1516000" />
       <workItem from="1614712611993" duration="1539000" />
+      <workItem from="1614723215310" duration="160000" />
+      <workItem from="1614726450136" duration="118000" />
+      <workItem from="1614781974613" duration="190000" />
     </task>
     <task id="LOCAL-00001" summary="hi">
       <created>1613932438155</created>
@@ -147,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614664802173</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="AP FRQs code embedded into webpage">
+      <created>1614723274440</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1614723274440</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,6 +179,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hi" />
     <MESSAGE value="added php" />
-    <option name="LAST_COMMIT_MESSAGE" value="added php" />
+    <MESSAGE value="AP FRQs code embedded into webpage" />
+    <option name="LAST_COMMIT_MESSAGE" value="AP FRQs code embedded into webpage" />
   </component>
 </project>
