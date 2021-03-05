@@ -12,6 +12,19 @@
         </div>
 
         <div style="margin: 2%;">
+            <form id="factorialcalc" action="/factorial" method="GET" >
+                <label for="num">Type a number:</label>
+                <input name="num" id="num" type="number">
+                <button>Enter!</button>
+            </form>
+        </div>
+
+        <div style="margin: 2%;">
+            <p th:text="'Factorial of the number:' + ${num}"></p>
+        </div>
+
+
+        <div style="margin: 2%;">
             <h4>Here are 4 different ways to calculate factorials. These methods include Iteration, Recursion, Streams and BigInteger.</h4>
         </div>
         <div style="margin: 2%;">
