@@ -6,13 +6,13 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.RestController;
 
 
 import java.io.IOException;
 
 
 @Controller
-@ComponentScan("src/main/resources/static/factorial")
 public class factorialcalccontroller {
 
     @GetMapping("/factorial")
@@ -20,6 +20,6 @@ public class factorialcalccontroller {
         int nth = Integer.parseInt(num);
 
         model.addAttribute("num", factorialcalc.driver(nth));
-        return "src/main/resources/static/factorial";
+        return "../../../resources/static/factorial";
     }
 }
