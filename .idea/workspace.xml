@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="103a998e-d751-4216-8fa0-42164ec7473c" name="Default Changelist" comment="Nothing fixed =(">
+    <list default="true" id="103a998e-d751-4216-8fa0-42164ec7473c" name="Default Changelist" comment="four function calc">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/springbootdemo/factorialcalccontroller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/springbootdemo/factorialcalccontroller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/APFRQs.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/APFRQs.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/Frq.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/Frq.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/fourfunction.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/fourfunction.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,13 +22,13 @@
       <list>
         <option value="CSS File" />
         <option value="JavaScript File" />
-        <option value="HTML File" />
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/main/resources/static" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -62,13 +60,25 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Pranav\IdeaProjects\Calco\src\main\resources\static" />
       <recent name="C:\Users\Pranav\IdeaProjects\Calco\src\main\resources\templates" />
-      <recent name="C:\Users\Pranav\IdeaProjects\Calco\src\main\resources" />
+      <recent name="C:\Users\Pranav\IdeaProjects\Calco\src\main\resources\static" />
       <recent name="C:\Users\Pranav\IdeaProjects\Calco\src\main\resources\templates\starters" />
     </key>
   </component>
   <component name="RunManager" selected="Spring Boot.GatorsCalculatorHubApplication">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Length.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/springbootdemo/static/Length.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -130,11 +140,7 @@
       <workItem from="1614781974613" duration="190000" />
       <workItem from="1614782241603" duration="543000" />
       <workItem from="1614873731396" duration="601000" />
-      <workItem from="1614915384212" duration="3881000" />
-      <workItem from="1614919726006" duration="2117000" />
-      <workItem from="1614956109170" duration="6840000" />
-      <workItem from="1614967913036" duration="269000" />
-      <workItem from="1614976646980" duration="72000" />
+      <workItem from="1614915384212" duration="3495000" />
     </task>
     <task id="LOCAL-00001" summary="hi">
       <created>1613932438155</created>
@@ -185,21 +191,28 @@
       <option name="project" value="LOCAL" />
       <updated>1614782371257</updated>
     </task>
-    <task id="LOCAL-00008" summary="WIP">
-      <created>1614919034356</created>
+    <task id="LOCAL-00008" summary="derivative">
+      <created>1615001522352</created>
       <option name="number" value="00008" />
       <option name="presentableId" value="LOCAL-00008" />
       <option name="project" value="LOCAL" />
-      <updated>1614919034356</updated>
+      <updated>1615001522352</updated>
     </task>
-    <task id="LOCAL-00009" summary="Nothing fixed =(">
-      <created>1614962073977</created>
+    <task id="LOCAL-00009" summary="four function calc">
+      <created>1615006003655</created>
       <option name="number" value="00009" />
       <option name="presentableId" value="LOCAL-00009" />
       <option name="project" value="LOCAL" />
-      <updated>1614962073977</updated>
+      <updated>1615006003655</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="four function calc">
+      <created>1615055406107</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1615055406107</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -221,8 +234,8 @@
     <MESSAGE value="hi" />
     <MESSAGE value="added php" />
     <MESSAGE value="AP FRQs code embedded into webpage" />
-    <MESSAGE value="WIP" />
-    <MESSAGE value="Nothing fixed =(" />
-    <option name="LAST_COMMIT_MESSAGE" value="Nothing fixed =(" />
+    <MESSAGE value="derivative" />
+    <MESSAGE value="four function calc" />
+    <option name="LAST_COMMIT_MESSAGE" value="four function calc" />
   </component>
 </project>
