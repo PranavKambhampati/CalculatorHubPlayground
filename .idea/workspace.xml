@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="103a998e-d751-4216-8fa0-42164ec7473c" name="Default Changelist" comment="derivative">
+    <list default="true" id="103a998e-d751-4216-8fa0-42164ec7473c" name="Default Changelist" comment="four function calc">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -196,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615001522352</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="four function calc">
+      <created>1615006003655</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1615006003655</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -219,6 +226,7 @@
     <MESSAGE value="added php" />
     <MESSAGE value="AP FRQs code embedded into webpage" />
     <MESSAGE value="derivative" />
-    <option name="LAST_COMMIT_MESSAGE" value="derivative" />
+    <MESSAGE value="four function calc" />
+    <option name="LAST_COMMIT_MESSAGE" value="four function calc" />
   </component>
 </project>
