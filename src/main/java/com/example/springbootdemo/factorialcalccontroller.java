@@ -20,6 +20,6 @@ public class factorialcalccontroller {
         int nth = Integer.parseInt(num);
 
         model.addAttribute("num", factorialcalc.driver(nth));
-        return "../../../resources/static/factorial";
+        return "/static/factorial";
     }
 }

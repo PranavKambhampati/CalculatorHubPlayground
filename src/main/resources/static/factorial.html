@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<html xmlns:th="http://www.thymeleaf.org">
 <head>
-    <meta charset="UTF-8">
     <title>Factorial - 4 Way Algos</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 </head>
 <body>
 <div class="contact" style="height: 35vh;">
@@ -20,7 +20,7 @@
         </div>
 
         <div style="margin: 2%;">
-            <p th:text="'Factorial of the number:' + ${num}"></p>
+            <p th:text="'Factorial of the number: + ${name}'">
         </div>
 
 
@@ -44,7 +44,7 @@
                 <h5>Calculating Factorials using Streams</h5>
             </div>
             <script src="https://emgithub.com/embed.js?target=https%3A%2F%2Fgithub.com%2FPranavKambhampati%2FCalculatorHubPlayground%2Fblob%2Fmaster%2Fsrc%2Fmain%2Fjava%2FFactorial%2FFactorialStreams.java&style=github&showBorder=on&showLineNumbers=on&showFileMeta=on"></script>
-            <p th:text="Calculating Factorials using BigInteger (for REALLY big factorials)"></p>
+            <p th:text="Calculating Factorials using BigInteger"></p>
             <div>
                 <h5>Calculating Factorials using BigInteger (for REALLY big factorials)</h5>
             </div>
