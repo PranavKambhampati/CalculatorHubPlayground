@@ -31,7 +31,7 @@ Alternatively, you can find our website deployed at webiste link here
 ### Conversion Calculator
 ![](./storeandcalc.gif)
 
-### ATM
+### Trigonmetric Calculator
 ![](./atm.gif)
 
 ## Communication
