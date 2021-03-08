@@ -23,16 +23,16 @@ Alternatively, you can find our website deployed at webiste link here
 | Trigonometry Calculator | Calculator with sine, cosine, and tangent functions, which are calculated in radians.
 | Conversions Calculator | Calculator with conversions in between imperial and metric units. Includes length, mass, and temperature conversions.
 
-## Demos
+## Full Completed Calculator Demos
 
-### 4 way Calculator
-![](./calcgif.gif)
+### 4 Way Calculator
+![](./4Function.gif)
 
-### Conversion Calculator
-![](./storeandcalc.gif)
+### Conversions Calculator
+![](./conversions.gif)
 
 ### Trigonmetric Calculator
-![](./atm.gif)
+![](./trig.gif)
 
 ## Communication
 NATM link: http://ntm.nighthawkcoders.cf/p1_asciimenu/
