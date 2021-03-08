@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="103a998e-d751-4216-8fa0-42164ec7473c" name="Default Changelist" comment="Lots of edits:&#10;RestAPI and SpringMVC/Thymeleaf buttons added to lab page&#10;Unfinished calculators now have a display page&#10;New Controllers Added and new mappings created&#10;Other minor edits to website">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/Trig.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/Trig.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/TrigFunctions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/TrigFunctions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/TrigLayout.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/TrigLayout.css" afterDir="false" />
-    </list>
+    <list default="true" id="103a998e-d751-4216-8fa0-42164ec7473c" name="Default Changelist" comment="A push that needs to be pulled" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -142,6 +137,7 @@
       <workItem from="1615129260061" duration="6270000" />
       <workItem from="1615140386326" duration="7196000" />
       <workItem from="1615163035849" duration="2094000" />
+      <workItem from="1615167075585" duration="313000" />
     </task>
     <task id="LOCAL-00001" summary="hi">
       <created>1613932438155</created>
@@ -227,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615149059987</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="A push that needs to be pulled">
+      <created>1615167359225</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1615167359225</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -253,6 +256,7 @@
     <MESSAGE value="four function calc" />
     <MESSAGE value="Ignore" />
     <MESSAGE value="Lots of edits:&#10;RestAPI and SpringMVC/Thymeleaf buttons added to lab page&#10;Unfinished calculators now have a display page&#10;New Controllers Added and new mappings created&#10;Other minor edits to website" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lots of edits:&#10;RestAPI and SpringMVC/Thymeleaf buttons added to lab page&#10;Unfinished calculators now have a display page&#10;New Controllers Added and new mappings created&#10;Other minor edits to website" />
+    <MESSAGE value="A push that needs to be pulled" />
+    <option name="LAST_COMMIT_MESSAGE" value="A push that needs to be pulled" />
   </component>
 </project>
