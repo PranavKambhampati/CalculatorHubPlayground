@@ -37,7 +37,8 @@ Alternatively, you can find our website deployed at webiste link here
 ## Communication
 NATM link: http://ntm.nighthawkcoders.cf/p1_asciimenu/
 
-## Techinals
+
+## Technicals
 
 To be elaborated on shortly
 
