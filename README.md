@@ -1,4 +1,4 @@
-## Online Calculator Website
+## The Gators Spring - Calculator Hub Website!
 
 The project developers are Pranav Kambhampati, Neil Sahai, Aryan Amberkar, and Praveen Natarajan
 
@@ -15,13 +15,13 @@ All of our labs can be accessed by building the project and typing localhost:808
 
 Alternatively, you can find our website deployed at webiste link here
 
-## Features
+## Features - more to come soon
 
 | Lab | Description |
 | --- | --- |
 | 4 function Calculator | Calculator with many functions like addition, subtraction, multiplication, division. 
 | Trigonometry Calculator | Calculator with sine, cosine, and tangent functions, which are calculated in radians.
-| Conversions Calculator | Calculator with conversions in between imperial and metric units. Includes length, mass, and temperature conversions.
+| Conversions Calculator | Calculator with conversions between imperial and metric units. Includes length, mass, and temperature conversions.
 
 ## Full Completed Calculator Demos
 
@@ -49,7 +49,8 @@ Alternatively, you can find our website deployed at webiste link here
 - Layered Approach to CSS, HTML, and Javascript as described in Mr. M's tech talk.
 - Developed Navbar in HTML to route to all the assembled pages.
 - Event Based Programming when clicking buttons to display the results in the calculator and to reroute to .html pages.
-- Persistent Java Backend with Rest API and JSON to fetch persistent data held in our AWS Database. [In Progress :)]
+- Persistent Java Backend implemented through calculator logic.
+- AP FRQs integrated into web page using our own researched embed - Easter Egg for the project.
 
 ## Journals and Project Credits
 Contributor | GitHub Link |
