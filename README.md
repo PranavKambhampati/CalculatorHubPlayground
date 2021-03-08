@@ -25,10 +25,10 @@ Alternatively, you can find our website deployed at webiste link here
 
 ## Demos
 
-### Calculator
+### 4 way Calculator
 ![](./calcgif.gif)
 
-### Store
+### Conversion Calculator
 ![](./storeandcalc.gif)
 
 ### ATM
@@ -39,7 +39,9 @@ NATM link: http://ntm.nighthawkcoders.cf/p1_asciimenu/
 
 ## Techinals
 
-To be elaborated on
+To be elaborated on shortly
+
+## Journals and Other Miscellaneous Links
 
 Neil and Praveen's Journal: 
 https://docs.google.com/document/d/1Abg1L0foYwqYoHOs44TMDWZlAnQGxRZljYbNfsRkGZE/edit
