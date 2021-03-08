@@ -41,10 +41,13 @@ NATM link: http://ntm.nighthawkcoders.cf/p1_asciimenu/
 
 To be elaborated on shortly
 
-## Journals and Other Miscellaneous Links
+## Journals and Project Credits
+Contributor | GitHub Link |
+----------- | ----------- |
+Neil Sahai | [@Neil-Sahai](https://github.com/Neil-Sahai)
+Pranav Kahbhampati | [@PranavKambhampati](https://github.com/PranavKambhampati) 
+Praveen Natarajan | [@PNatarajan123](https://github.com/PNatarajan123)
+Aryan Amberkar | [@aryan114](https://github.com/aryan114)
 
-Neil and Praveen's Journal: 
-https://docs.google.com/document/d/1Abg1L0foYwqYoHOs44TMDWZlAnQGxRZljYbNfsRkGZE/edit
 
-Aryan and Pranav Journal:
-https://docs.google.com/document/d/179YQwRy_Z3VPrH-tna0JrGzOdYIIuOfOYXNn2D1xtVA/edit?usp=sharing
+
