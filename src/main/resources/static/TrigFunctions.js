@@ -1,3 +1,4 @@
+
 var InputType = document.getElementById('InputType');
 var angle = document.getElementById('angle');
 var input = document.getElementById('input');
@@ -23,4 +24,3 @@ function calcoutput() {
         output.value = Math.tan(Number(angle.value));
     }
 }
-

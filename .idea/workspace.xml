@@ -4,22 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="103a998e-d751-4216-8fa0-42164ec7473c" name="Default Changelist" comment="Ignore">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/springbootdemo/Greet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/springbootdemo/GreetController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/springbootdemo/tcontroller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/labbuttons.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/newcalc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/tgree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/CalculatorHubPlayground.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CalculatorHubPlayground.iml" afterDir="false" />
+    <list default="true" id="103a998e-d751-4216-8fa0-42164ec7473c" name="Default Changelist" comment="Lots of edits:&#10;RestAPI and SpringMVC/Thymeleaf buttons added to lab page&#10;Unfinished calculators now have a display page&#10;New Controllers Added and new mappings created&#10;Other minor edits to website">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/springbootdemo/factorialcalccontroller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/springbootdemo/factorialcalccontroller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/Journals.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/Journals.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/Length.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/Length.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/static/Trig.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/Trig.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/factorial.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/factorial.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/TrigFunctions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/TrigFunctions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/TrigLayout.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/TrigLayout.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,17 +80,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Length.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/springbootdemo/static/Length.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -162,7 +140,8 @@
       <workItem from="1614873731396" duration="601000" />
       <workItem from="1614915384212" duration="3495000" />
       <workItem from="1615129260061" duration="6270000" />
-      <workItem from="1615140386326" duration="6445000" />
+      <workItem from="1615140386326" duration="7196000" />
+      <workItem from="1615163035849" duration="2094000" />
     </task>
     <task id="LOCAL-00001" summary="hi">
       <created>1613932438155</created>
@@ -241,7 +220,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615075151045</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Lots of edits:&#10;RestAPI and SpringMVC/Thymeleaf buttons added to lab page&#10;Unfinished calculators now have a display page&#10;New Controllers Added and new mappings created&#10;Other minor edits to website">
+      <created>1615149059987</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1615149059987</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -266,6 +252,7 @@
     <MESSAGE value="derivative" />
     <MESSAGE value="four function calc" />
     <MESSAGE value="Ignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ignore" />
+    <MESSAGE value="Lots of edits:&#10;RestAPI and SpringMVC/Thymeleaf buttons added to lab page&#10;Unfinished calculators now have a display page&#10;New Controllers Added and new mappings created&#10;Other minor edits to website" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lots of edits:&#10;RestAPI and SpringMVC/Thymeleaf buttons added to lab page&#10;Unfinished calculators now have a display page&#10;New Controllers Added and new mappings created&#10;Other minor edits to website" />
   </component>
 </project>
