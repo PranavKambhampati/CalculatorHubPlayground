@@ -35,7 +35,7 @@ Alternatively, you can find our website deployed at the website link [here](http
 ### Trigonmetric Calculator
 ![](./trig.gif)
 
-### Logarithm and Exponent Calculator
+### Logarithm and Exponent Calculator - last 3 are exponents
 ![](./log.gif)
 
 ## Communication
