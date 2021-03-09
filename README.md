@@ -64,7 +64,7 @@ Contributor | GitHub Link | Journals |
 Neil Sahai | [@Neil-Sahai](https://github.com/Neil-Sahai) | [Link Here](https://docs.google.com/document/d/11P2fqfbp5GWF5NYZoL8CgCEbVxykWBszKnbGzh17aJo/edit)
 Pranav Kahbhampati | [@PranavKambhampati](https://github.com/PranavKambhampati) | [Link Here](https://docs.google.com/document/d/1_aBz9QKzEi9bShTU0loTAQi4kp2eueYbAbDN5l8Iw24/edit)
 Praveen Natarajan | [@PNatarajan123](https://github.com/PNatarajan123) | [Link Here](https://docs.google.com/document/d/11P2fqfbp5GWF5NYZoL8CgCEbVxykWBszKnbGzh17aJo/edit)
-Aryan Amberkar | [@aryan114](https://github.com/aryan114) [Link Here](https://docs.google.com/document/d/1_aBz9QKzEi9bShTU0loTAQi4kp2eueYbAbDN5l8Iw24/edit)
+Aryan Amberkar | [@aryan114](https://github.com/aryan114) | [Link Here](https://docs.google.com/document/d/1_aBz9QKzEi9bShTU0loTAQi4kp2eueYbAbDN5l8Iw24/edit)
 
 ## Contributions
 ![](https://github.com/PranavKambhampati/CalculatorHubPlayground/blob/master/contributions.PNG)
