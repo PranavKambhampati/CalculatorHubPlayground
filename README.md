@@ -68,5 +68,64 @@ Pranav Kahbhampati | This year, I finally took computer science, a class that I'
 Praveen Natarajan | This year, I took a second year of computer science. I entered the class with little knowledge of Java, except for a course that I took over the summer. However, I was familiar with C and Python from last year. Throughout the first trimester, I got exposure to all 10 units from the College Board. I worked with my scrum team, as well as pair share, to create a project that incorporated all 10 units of college board. I got exposure to concepts that I have little to no exposure to, such as recursion. The project based learning part of the trimester really helped me to work in a group and learn together rather than doing everything individually. It let me build up my foundations that would be invaluable in the coming projects. Afterwards, I ventured into MVC, Spring, Swing, JSON, HTML, and databases. Because I learned the fundamentals well during trimester 1, I was well prepared to venture into these units. Also, during this trimester, we prepared for the AP exam by doing practice problems on the College Board. It was really helpful recording our results on a single document, so that we could come back to it later. Overall, I thought that I improved significantly in my coding ability from last trimester to this trimester.
 Aryan Amberkar | This year I decided to take the second year of computer science. When I entered the class, I thought I was ready as I had done Java over the summer to help me prepare for the course. However, when I began learning, I realized how little I actually knew about Java and general computer programming. Throughout the year, I learned about the 10 basic College Board units, and through this I got exposure to topics that I had no idea even existed (Recursion, Inheritance). Once that was over, I ventured into learning MVC or Model View Controller. I had no clue what MVC even meant, but this was a strategy that helped me be a better coder as now I know how it is a good coding practice to separate the model, view, and control. Then beginning in the second trimester, I learned the fundamentals of databases and how to use them into a computer algorithm. Our group specifically learned a lot of AWS or Amazon Web Services, and incorporated this with Java Swing GUI. After this, we ventured into Java Spring and web development through HTML, CSS, and JavaScript. Our group focused on making an online calculator. Throughout the year, I realized how little I knew and how much I learned throughout the year. I have definitely improved my critical thinking and coding/programming skills throughout this trimester. 
 
+## Previous Readme Content
+
+#### Deployed Website:
+To view our spring website, just visit this website: https://csa-gators-suit.herokuapp.com/
+This website will be updated as we continue to improve our calculator code and add new calculators. As we add more code, our repository in GitHub will be updated. However, this code then needs to be pushed to Heroku for those changes to be reflected on the website.
+
+Our goal was to make the interface as simple as possible, therefore, everything is very straightforward. Once the user opens up the website, there are buttons to different calculators on the home page. The user can simply click on the button for the calculator they want to use.
+
+Some of these buttons are:
+* Derivative Calculator
+* Basic 4-Function Calculator
+* Integral Calculator
+* Trig Function Calculator
+* Logarithm and Exponent Calcualtor
+* Statistics Calculator
+* Area and Volume Calculator
+* Conversions
+
+As we make more calculators, they will be added to the list here.
+
+Currently, the buttons won't lead the user anywhere because the backend code hasn't been coded yet.
+
+### Week of 2/15
+
+Our team, primarily Neil, was focused on creating and editing the front end code through a template. In the commit history, you can see that more CSS files and code were added in order to better style our website. Furthermore we were able to deploy our project on the world wide web through an application called Heroku. We made some progress on the front end aspect of our code as we have links to each pair share's journals, a brief project overview, and links to each member's GitHub profile.
+
+#### Pull and Run:
+In order to run our project, first pull the APCSA-The-Gators-Spring Repo into IntelliJ through a remote. This project uses JDK 15. In order to run the project, run the DemoApplication.java file, and this is located in src>main>java>com.example.demo>DemoApplication.
+
+This is the file path shown in the project directory:
+![](https://github.com/aryan114/APCSA-The-Gators-Spring/blob/master/src/main/Images/filepath.PNG)
+
+Once the project is done building, you can view the rendering through any browser. Since this project uses SpringBoot, it ports to port 8080. Typing in localhost:8080 in any broswer will let you see the physical rendering of the project.
+
+### Week of 2/8
+
+Our team is focused on creating a new project with a more coherent theme for the web. We will create a series of calculators that will be combined into one large calculator, so we will individually code things like a derivative, integral, and area calculator + many more. Here are the indiviudal assignments below:
+
+#### Aryan: Derivative Calculator, Mean, Median, Mode Calculator, and Trig Calculator.
+#### Pranav: Area of 2D Shapes, Volume of 3D Shapes, Conversions
+#### Praveen: Graphing Calculator, Systems of Equations Calculator, Basic 4 Function Calculator
+#### Neil: Logarithms Calculator, Integral Calculator
+
+We will integrate our project with the scrum team Coconuts. 
+
+
+### Week of 2/1
+Everyone in our Scrum Team was able to install VMWare and run a virtual machine. We all also have IntelliJ Ultimate installed in those VMs and were able to pull the repo and run the Travel Webpage.
+
+[Made JAR File](https://github.com/aryan114/APCSA-The-Gators-Spring/issues/15): We were successfully able to use Maven to create a JAR file. We will be using this JAR file to deploy our project.
+![](https://github.com/aryan114/APCSA-The-Gators-Spring/blob/master/src/main/Images/snippy.PNG)
+
+[Install IntelliJ Ultimate on VM](https://github.com/aryan114/APCSA-The-Gators-Spring/issues/10): All of us were able to install VMWare and a windows or ubuntu VM where we were able to install IntelliJ Ultimate. We were then able to push the code to the repo through our VMs. 
+![](https://github.com/aryan114/APCSA-The-Gators-Spring/blob/master/src/main/Images/installed%20intellij.PNG)
+
+[Get WebServer running on Machine](https://github.com/aryan114/APCSA-The-Gators-Spring/issues/2): We were able to successfully use Spring to run the Travel Webpage on our VMs. 
+![](https://github.com/aryan114/APCSA-The-Gators-Spring/blob/master/src/main/Images/website.PNG)
+
+Links to the code/assignment are on the Ticket itself (in the Done Column).
 
 
