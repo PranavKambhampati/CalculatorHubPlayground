@@ -35,6 +35,9 @@ Alternatively, you can find our website deployed at webiste link here
 ### Trigonmetric Calculator
 ![](./trig.gif)
 
+### Logarithm and Exponent Calculator
+
+
 ## Communication
 - NATM link: Will be posted shortly
 - Heroku Suite Deployment can be view above.
@@ -95,14 +98,6 @@ Currently, the buttons won't lead the user anywhere because the backend code has
 
 Our team, primarily Neil, was focused on creating and editing the front end code through a template. In the commit history, you can see that more CSS files and code were added in order to better style our website. Furthermore we were able to deploy our project on the world wide web through an application called Heroku. We made some progress on the front end aspect of our code as we have links to each pair share's journals, a brief project overview, and links to each member's GitHub profile.
 
-#### Pull and Run:
-In order to run our project, first pull the APCSA-The-Gators-Spring Repo into IntelliJ through a remote. This project uses JDK 15. In order to run the project, run the DemoApplication.java file, and this is located in src>main>java>com.example.demo>DemoApplication.
-
-This is the file path shown in the project directory:
-![](https://github.com/aryan114/APCSA-The-Gators-Spring/blob/master/src/main/Images/filepath.PNG)
-
-Once the project is done building, you can view the rendering through any browser. Since this project uses SpringBoot, it ports to port 8080. Typing in localhost:8080 in any broswer will let you see the physical rendering of the project.
-
 ### Week of 2/8
 
 Our team is focused on creating a new project with a more coherent theme for the web. We will create a series of calculators that will be combined into one large calculator, so we will individually code things like a derivative, integral, and area calculator + many more. Here are the indiviudal assignments below:
@@ -128,5 +123,3 @@ Everyone in our Scrum Team was able to install VMWare and run a virtual machine.
 ![](https://github.com/aryan114/APCSA-The-Gators-Spring/blob/master/src/main/Images/website.PNG)
 
 Links to the code/assignment are on the Ticket itself (in the Done Column).
-
-
