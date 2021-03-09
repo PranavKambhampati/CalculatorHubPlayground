@@ -59,15 +59,16 @@ Alternatively, you can find our website deployed at the website link [here](http
 - We explored how JSON works with Rest APIs through a lab that prints Hello World. This can be changed by changing the URL to pass in a different parameter. We then built a similar application that uses SpringMVC and Thymeleaf instead of RestAPIs to show the message in order to compare and contrast the two methods.
 
 ## Journals and Project Credits
-Contributor | GitHub Link |
+Contributor | GitHub Link | Journals
 ----------- | ----------- |
-Neil Sahai | [@Neil-Sahai](https://github.com/Neil-Sahai)
-Pranav Kahbhampati | [@PranavKambhampati](https://github.com/PranavKambhampati) 
-Praveen Natarajan | [@PNatarajan123](https://github.com/PNatarajan123)
-Aryan Amberkar | [@aryan114](https://github.com/aryan114)
+Neil Sahai | [@Neil-Sahai](https://github.com/Neil-Sahai) | [Link Here](https://docs.google.com/document/d/11P2fqfbp5GWF5NYZoL8CgCEbVxykWBszKnbGzh17aJo/edit)
+Pranav Kahbhampati | [@PranavKambhampati](https://github.com/PranavKambhampati) | [Link Here](https://docs.google.com/document/d/1_aBz9QKzEi9bShTU0loTAQi4kp2eueYbAbDN5l8Iw24/edit)
+Praveen Natarajan | [@PNatarajan123](https://github.com/PNatarajan123) | [Link Here](https://docs.google.com/document/d/11P2fqfbp5GWF5NYZoL8CgCEbVxykWBszKnbGzh17aJo/edit)
+Aryan Amberkar | [@aryan114](https://github.com/aryan114) [Link Here](https://docs.google.com/document/d/1_aBz9QKzEi9bShTU0loTAQi4kp2eueYbAbDN5l8Iw24/edit)
 
 ## Contributions
-
+![](https://github.com/PranavKambhampati/CalculatorHubPlayground/blob/master/contributions.PNG)
+![](https://github.com/PranavKambhampati/CalculatorHubPlayground/blob/master/contributions2.PNG)
 
 ## I am Final Reflection for CSA Tri 2
 Contributor | Trimester 2 I am Final Reflection |
