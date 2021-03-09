@@ -13,7 +13,7 @@ Prerequisites:
 
 All of our labs can be accessed by building the project and typing localhost:8080 in your browser after cloning our repository.
 
-Alternatively, you can find our website deployed at webiste link [here](https://csa-gators-calculator-suite.herokuapp.com/)
+Alternatively, you can find our website deployed at the website link [here](https://csa-gators-calculator-suite.herokuapp.com/)
 
 ## Features - more to come soon
 
@@ -66,6 +66,9 @@ Pranav Kahbhampati | [@PranavKambhampati](https://github.com/PranavKambhampati)
 Praveen Natarajan | [@PNatarajan123](https://github.com/PNatarajan123)
 Aryan Amberkar | [@aryan114](https://github.com/aryan114)
 
+## Contributions
+
+
 ## I am Final Reflection for CSA Tri 2
 Contributor | Trimester 2 I am Final Reflection |
 ----------- | ----------- |
@@ -87,7 +90,7 @@ Some of these buttons are:
 * Basic 4-Function Calculator
 * Integral Calculator
 * Trig Function Calculator
-* Logarithm and Exponent Calcualtor
+* Logarithms and Exponents Calcualtor
 * Statistics Calculator
 * Area and Volume Calculator
 * Conversions
