@@ -42,7 +42,6 @@ Alternatively, you can find our website deployed at the website link [here](http
 - NATM link: Will be posted shortly
 - Commercial Video can be found shortly
 - Heroku Suite Deployment can be view above, alternatively it can be found at this [link](https://csa-gators-calculator-suite.herokuapp.com/).
-- [The Gators Spring Scrum Board](https://github.com/aryan114/APCSA-The-Gators-Spring/projects/1)
 - [Calculator Playround Scrum Board](https://github.com/PranavKambhampati/CalculatorHubPlayground/projects/1)
 
 ## Technicals
