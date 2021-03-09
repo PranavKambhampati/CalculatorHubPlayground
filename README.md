@@ -22,6 +22,7 @@ Alternatively, you can find our website deployed at webiste link here
 | 4 function Calculator | Calculator with many functions like addition, subtraction, multiplication, division. 
 | Trigonometry Calculator | Calculator with sine, cosine, and tangent functions, which are calculated in radians.
 | Conversions Calculator | Calculator with conversions between imperial and metric units. Includes length, mass, and temperature conversions.
+| Logarithm and Exponent Calculator | A calculator with both natural log and log functions, In addition to some exponent bases. |
 
 ## Full Completed Calculator Demos
 
