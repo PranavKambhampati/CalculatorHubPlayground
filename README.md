@@ -13,7 +13,7 @@ Prerequisites:
 
 All of our labs can be accessed by building the project and typing localhost:8080 in your browser after cloning our repository.
 
-Alternatively, you can find our website deployed at webiste link here
+Alternatively, you can find our website deployed at webiste link [here](https://csa-gators-calculator-suite.herokuapp.com/)
 
 ## Features - more to come soon
 
@@ -36,11 +36,12 @@ Alternatively, you can find our website deployed at webiste link here
 ![](./trig.gif)
 
 ### Logarithm and Exponent Calculator
-
+![](./log.gif)
 
 ## Communication
 - NATM link: Will be posted shortly
-- Heroku Suite Deployment can be view above.
+- Commercial Video can be found shortly
+- Heroku Suite Deployment can be view above, alternatively it can be found at this [link](https://csa-gators-calculator-suite.herokuapp.com/).
 - [The Gators Spring Scrum Board](https://github.com/aryan114/APCSA-The-Gators-Spring/projects/1)
 - [Calculator Playround Scrum Board](https://github.com/PranavKambhampati/CalculatorHubPlayground/projects/1)
 
@@ -55,6 +56,7 @@ Alternatively, you can find our website deployed at webiste link here
 - Event Based Programming when clicking buttons to display the results in the calculator and to reroute to .html pages.
 - Persistent Java Backend implemented through calculator logic.
 - AP FRQs integrated into web page using our own researched embed - Easter Egg for the project.
+- We explored how JSON works with Rest APIs through a lab that prints Hello World. This can be changed by changing the URL to pass in a different parameter. We then built a similar application that uses SpringMVC and Thymeleaf instead of RestAPIs to show the message in order to compare and contrast the two methods.
 
 ## Journals and Project Credits
 Contributor | GitHub Link |
@@ -72,7 +74,7 @@ Pranav Kahbhampati | This year, I finally took computer science, a class that I'
 Praveen Natarajan | This year, I took a second year of computer science. I entered the class with little knowledge of Java, except for a course that I took over the summer. However, I was familiar with C and Python from last year. Throughout the first trimester, I got exposure to all 10 units from the College Board. I worked with my scrum team, as well as pair share, to create a project that incorporated all 10 units of college board. I got exposure to concepts that I have little to no exposure to, such as recursion. The project based learning part of the trimester really helped me to work in a group and learn together rather than doing everything individually. It let me build up my foundations that would be invaluable in the coming projects. Afterwards, I ventured into MVC, Spring, Swing, JSON, HTML, and databases. Because I learned the fundamentals well during trimester 1, I was well prepared to venture into these units. Also, during this trimester, we prepared for the AP exam by doing practice problems on the College Board. It was really helpful recording our results on a single document, so that we could come back to it later. Overall, I thought that I improved significantly in my coding ability from last trimester to this trimester.
 Aryan Amberkar | This year I decided to take the second year of computer science. When I entered the class, I thought I was ready as I had done Java over the summer to help me prepare for the course. However, when I began learning, I realized how little I actually knew about Java and general computer programming. Throughout the year, I learned about the 10 basic College Board units, and through this I got exposure to topics that I had no idea even existed (Recursion, Inheritance). Once that was over, I ventured into learning MVC or Model View Controller. I had no clue what MVC even meant, but this was a strategy that helped me be a better coder as now I know how it is a good coding practice to separate the model, view, and control. Then beginning in the second trimester, I learned the fundamentals of databases and how to use them into a computer algorithm. Our group specifically learned a lot of AWS or Amazon Web Services, and incorporated this with Java Swing GUI. After this, we ventured into Java Spring and web development through HTML, CSS, and JavaScript. Our group focused on making an online calculator. Throughout the year, I realized how little I knew and how much I learned throughout the year. I have definitely improved my critical thinking and coding/programming skills throughout this trimester. 
 
-## Previous Readme Content
+## Previous Readme Content from old Repository
 
 #### Deployed Website:
 To view our spring website, just visit this website: https://csa-gators-suit.herokuapp.com/
@@ -91,8 +93,6 @@ Some of these buttons are:
 * Conversions
 
 As we make more calculators, they will be added to the list here.
-
-Currently, the buttons won't lead the user anywhere because the backend code hasn't been coded yet.
 
 ### Week of 2/15
 
